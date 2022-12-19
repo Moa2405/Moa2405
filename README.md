@@ -1,5 +1,5 @@
-### Hi 🙌 
-### My name is Mohamed Mokadem
+# Hi 🙌 
+## My name is Mohamed Mokadem
 ## I em a Junior Front-end developer
 ![image](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 <p>Graduated from Noroff University January 2023 as a front-end developer</p>
@@ -33,7 +33,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-# Currantly looking for job in Oslo, Norway as a front-end developer
+### Currantly looking for job in Oslo, Norway as a front-end developer
 
 <!--
 **Moa2405/Moa2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
