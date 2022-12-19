@@ -6,6 +6,7 @@
 ## My tech stack
 
 <p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Query" src="https://img.shields.io/badge/-ReactQuery-orange?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="React Query" src="https://img.shields.io/badge/-Next-brightgreen?logo=nextdotjs&logoColor=white" />
