@@ -5,6 +5,7 @@
 ![image](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 
 <p>Graduated from Noroff University January 2023 as a front-end developer</p>
+<p>Currently looking for job in Oslo, Norway as a front-end developer</p>
 
 ## My tech stack
 
@@ -27,15 +28,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ea2845?style=flat-square&logo=figma&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-blue?style=flat-square&logo=strapi&logoColor=white" />
   <img alt="Wordpress CMS" src="https://img.shields.io/badge/-WP_CMS-orange?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-### Currantly looking for job in Oslo, Norway as a front-end developer
 
 <!--
 **Moa2405/Moa2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
