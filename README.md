@@ -33,6 +33,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+# Currantly looking for job in Oslo, Norway as a front-end developer
+
 <!--
 **Moa2405/Moa2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
