@@ -1,4 +1,4 @@
-# Hi 🙌 
+# Hello 2 you 🖐 
 ## My name is Mohamed Mokadem
 <p>I em a Junior Front-end developer</p>
 
@@ -7,7 +7,7 @@
 <p>Graduated from Noroff University January 2023 as a front-end developer</p>
 <p>Currently looking for job in Oslo, Norway as a front-end developer</p>
 
-## My tech stack
+## My tech stack👇
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
